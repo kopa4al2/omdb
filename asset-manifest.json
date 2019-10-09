@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/omdb/static/css/main.071e60cb.chunk.css",
-    "main.js": "/omdb/static/js/main.eef2160e.chunk.js",
-    "main.js.map": "/omdb/static/js/main.eef2160e.chunk.js.map",
+    "main.css": "/omdb/static/css/main.296963bb.chunk.css",
+    "main.js": "/omdb/static/js/main.7dfe64a3.chunk.js",
+    "main.js.map": "/omdb/static/js/main.7dfe64a3.chunk.js.map",
     "runtime-main.js": "/omdb/static/js/runtime-main.5578c2c0.js",
     "runtime-main.js.map": "/omdb/static/js/runtime-main.5578c2c0.js.map",
-    "static/js/2.cb0c1917.chunk.js": "/omdb/static/js/2.cb0c1917.chunk.js",
-    "static/js/2.cb0c1917.chunk.js.map": "/omdb/static/js/2.cb0c1917.chunk.js.map",
+    "static/js/2.930edb5d.chunk.js": "/omdb/static/js/2.930edb5d.chunk.js",
+    "static/js/2.930edb5d.chunk.js.map": "/omdb/static/js/2.930edb5d.chunk.js.map",
     "index.html": "/omdb/index.html",
-    "precache-manifest.16c876b72f4f3370c8b717a0627135cd.js": "/omdb/precache-manifest.16c876b72f4f3370c8b717a0627135cd.js",
+    "precache-manifest.d1c9bbe78479acda8539a7e3c21399ad.js": "/omdb/precache-manifest.d1c9bbe78479acda8539a7e3c21399ad.js",
     "service-worker.js": "/omdb/service-worker.js",
-    "static/css/main.071e60cb.chunk.css.map": "/omdb/static/css/main.071e60cb.chunk.css.map",
+    "static/css/main.296963bb.chunk.css.map": "/omdb/static/css/main.296963bb.chunk.css.map",
     "static/media/loading.css": "/omdb/static/media/loading-img.1854c4f1.png"
   },
   "entrypoints": [
     "static/js/runtime-main.5578c2c0.js",
-    "static/js/2.cb0c1917.chunk.js",
-    "static/css/main.071e60cb.chunk.css",
-    "static/js/main.eef2160e.chunk.js"
+    "static/js/2.930edb5d.chunk.js",
+    "static/css/main.296963bb.chunk.css",
+    "static/js/main.7dfe64a3.chunk.js"
   ]
 }

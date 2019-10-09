@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "837c43ca5c24937deb9326aba3f5a74d",
+    "revision": "f8d9d486573d6de05a412dc0e94a6dd4",
     "url": "/omdb/index.html"
   },
   {
-    "revision": "6485fa341beafb501dfe",
-    "url": "/omdb/static/css/main.071e60cb.chunk.css"
+    "revision": "90075986438ea20e6dbb",
+    "url": "/omdb/static/css/main.296963bb.chunk.css"
   },
   {
-    "revision": "865ea5416481beb38ead",
-    "url": "/omdb/static/js/2.cb0c1917.chunk.js"
+    "revision": "9b6f66fc650fc5573f9d",
+    "url": "/omdb/static/js/2.930edb5d.chunk.js"
   },
   {
-    "revision": "6485fa341beafb501dfe",
-    "url": "/omdb/static/js/main.eef2160e.chunk.js"
+    "revision": "90075986438ea20e6dbb",
+    "url": "/omdb/static/js/main.7dfe64a3.chunk.js"
   },
   {
     "revision": "8de164384d87f12d4e67",
