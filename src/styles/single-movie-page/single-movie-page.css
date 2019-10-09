@@ -1,0 +1,5 @@
+.go-back{
+    user-select: none;
+    cursor:pointer;
+    padding:5px;
+}

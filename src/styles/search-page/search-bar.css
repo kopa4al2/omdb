@@ -1,0 +1,85 @@
+.search-bar {
+    margin: 5px 15px;
+    display: flex;
+    flex-wrap: wrap;
+
+    justify-items: flex-end;
+    align-items: flex-end;
+}
+
+.search-input {
+    padding: 20px 0 5px;
+    text-indent: 5px;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    border: none;
+    border-bottom: 3px solid rgba(0, 0, 0, .12);
+    outline: none;
+    background: transparent;
+    transition: border-bottom-color .6s cubic-bezier(.25, .8, .25, 1);
+    transform-origin: 50%;
+    font-family: "Lato", serif;
+    font-size: 1.15rem;
+}
+
+.search-input:hover, .search-input:hover, .search-input:hover {
+    border-bottom: 3px solid rgba(0, 0, 0, .30);
+}
+
+.search-input:focus, .search-input:focus, .search-input:focus {
+    border-bottom: 3px solid #2962ff;
+}
+
+.search-input:-webkit-autofill, .search-input:-webkit-autofill:focus {
+    background: transparent !important;
+    -webkit-box-shadow: 0 0 0 50px #00000099 inset !important;
+}
+
+.sort-select {
+    padding: 6px 15px;
+    margin-left:5px;
+    border-radius:3px;
+    background: #4285F4;
+    cursor: pointer;
+    box-shadow: 1px 1px 4px #13131366;
+    transition:box-shadow .2s linear;
+}
+
+.sort-select:hover {
+    box-shadow:1px 1px 6px #121212CC;
+}
+
+.btn {
+    padding: 8px 15px;
+    border-radius:3px;
+    background: #4285F4;
+    border: none;
+    cursor: pointer;
+    margin-left: 5px;
+    box-shadow: 1px 1px 4px #13131366;
+    transition:box-shadow .2s linear;
+}
+
+.btn:hover {
+    box-shadow:1px 1px 6px #121212CC;
+}
+
+/*TODO: Style scrollbar inside the select*/
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #888;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}

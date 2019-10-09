@@ -1,0 +1,32 @@
+.pagination{
+    display:flex;
+    margin:5px 0;
+}
+.pagination > .page-item{
+    user-select: none;
+    text-align: center;
+    cursor: pointer;
+    padding:5px;
+    margin:0 5px;
+    min-width:20px;
+    color:white;
+    background:#4285F4;
+}
+.pagination > .page-item.current-page{
+    background:#0d47a1;
+    pointer-events: none;
+}
+.pagination > .page-item.disabled{
+    pointer-events: none;
+    background:#4285F499;
+}
+.pagination > .page-item:hover{
+    background: #4285F4CC;
+}
+.pagination > .empty-space{
+    user-select:none;
+    margin:0 3px;
+    letter-spacing: 5px;
+    vertical-align: text-bottom;
+    align-self: flex-end;
+}

@@ -1,0 +1,25 @@
+.single-movie-description{
+    display:flex;
+    flex-direction: row;
+    margin:10px 0;
+}
+.image{
+    width:20%;
+    min-width:20%;
+    margin:0 20px;
+}
+.image img{
+    width:100%;
+}
+.property-row.title{
+    font-size:1.4rem;
+    margin-bottom:15px;
+}
+.property-row{
+    font-size:1.2rem;
+    margin-bottom:5px;
+}
+.property-row:not(.title) .movie-property{
+    font-weight: bold;
+    margin-right:4px;
+}
