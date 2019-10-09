@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kopa4al2/omdb/static/css/main.24f76bdb.chunk.css",
+    "main.js": "/kopa4al2/omdb/static/js/main.9670b55d.chunk.js",
+    "main.js.map": "/kopa4al2/omdb/static/js/main.9670b55d.chunk.js.map",
+    "runtime-main.js": "/kopa4al2/omdb/static/js/runtime-main.e8def194.js",
+    "runtime-main.js.map": "/kopa4al2/omdb/static/js/runtime-main.e8def194.js.map",
+    "static/js/2.e378bad3.chunk.js": "/kopa4al2/omdb/static/js/2.e378bad3.chunk.js",
+    "static/js/2.e378bad3.chunk.js.map": "/kopa4al2/omdb/static/js/2.e378bad3.chunk.js.map",
+    "index.html": "/kopa4al2/omdb/index.html",
+    "precache-manifest.eabcd1fd2a3991ba747774bf3e53b287.js": "/kopa4al2/omdb/precache-manifest.eabcd1fd2a3991ba747774bf3e53b287.js",
+    "service-worker.js": "/kopa4al2/omdb/service-worker.js",
+    "static/css/main.24f76bdb.chunk.css.map": "/kopa4al2/omdb/static/css/main.24f76bdb.chunk.css.map",
+    "static/media/loading.css": "/kopa4al2/omdb/static/media/loading-img.1854c4f1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e8def194.js",
+    "static/js/2.e378bad3.chunk.js",
+    "static/css/main.24f76bdb.chunk.css",
+    "static/js/main.9670b55d.chunk.js"
+  ]
+}
